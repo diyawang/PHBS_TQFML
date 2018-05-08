@@ -47,7 +47,7 @@ We find the dataset from [Kaggle](https://www.kaggle.com/c/facial-keypoint-detec
 <img src="https://raw.githubusercontent.com/diyawang/PHBS_TQFML/master/Project/data_new3.png" width=200 height=150 />
 <br>
 （3）The image is divided into four parts along the midpoints of each side. Right upper part is used to analyze left eye and left upper part is used to analyze right eye.<br>
-<img src="https://raw.githubusercontent.com/diyawang/PHBS_TQFML/master/Project/data_new3.png" width=150 height=150 />
+<img src="https://raw.githubusercontent.com/diyawang/PHBS_TQFML/master/Project/data_new4.png" width=150 height=150 />
 ### Step2: Features extraction.<br> 
 First, we will focus on the area with only eye.<br>
 （1）If the area has less than or equal to three black points, the coordinates of the uppermost, downmost, leftmost, and rightmost points are directly extracted.<br>
